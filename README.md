@@ -11,7 +11,7 @@
  -- 了解：数字电路设计/Flask/HTML/Javascript
  -- 用过：Gerrit/JIRA/Repo/Makefile/C#/OpenCV/Node.js/React
  - github：https://github.com/woxixiulayin
- - **联系方式**：**13162101930**  /    **zhigang7536308@163.com**
+ - **联系方式**：**zhigang7536308@163.com**
 
 ----
 ###工作经历
