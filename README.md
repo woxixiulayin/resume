@@ -1,7 +1,7 @@
 ###刘智刚
  - 求职意向：**前端开发（杭州）**
  -  联系方式：**13162101930**  /    **zhigang7536308@163.com**
- - [github传送门](ttps://github.com/woxixiulayin)
+ - [github传送门](https://github.com/woxixiulayin)
  - 工作年限：2年（安卓相关，目前离职转行前端）
 
 ----
@@ -37,13 +37,13 @@ PS: 以上均为工作后自学，在校期间主要从事嵌入式软硬件开�
 ####前端项目
 ######[百度贴吧爬虫](http://tiebadig.duapp.com/) | (Python，flask，bootstrap，react)
 - 这是15年底刚开始接触web开发写的。用Python的flask框架作为后台，bootstrap和react搭建页面，此时还没前端概念，布局比较简单
-- 爬取指定贴吧上符合条件的帖子，集中展示，比如搜索出回复量大于1000的热门帖子
+- 爬取指定贴吧上符合条件的帖子，集中展示，快速找出回复量大于1000的热门帖子
 - 该项目布置在百度的BAE引擎上。
 - [github传送门](https://github.com/woxixiulayin/tieba_dig_bae)
 
 ######[前端练手项目集合](http://keep-writing-codes.github.io/woxixiulayin/) (js/html/css, jQuery)
 - 系统的学习前端时做的练手项目，依照[百度前端技术学院](http://ife.baidu.com/task/all)的题目边学边练
-- 系统的过了一遍**前端基础**，开始进入前端学习的大门
+- 系统的过了一遍前端基础，开始进入前端学习的大门
 - [github传送门](https://github.com/keep-writing-codes/woxixiulayin)
 
 ######[直播网站Dota信息收集网](http://120.76.29.108:8080) （Node、koa、jQuery、gulp、webpack）
