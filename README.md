@@ -37,7 +37,7 @@
 - 前端使用vue.js根据传过来的JSON数据更新页面
 - [github传送门](https://github.com/woxixiulayin/vue-livedota)
 
-######[拉勾网职位搜索](http://123.56.17.200:8082) （Node、koa、mongodb、jQuery、gulp） [在线地址：http://123.56.17.200:8082](http://123.56.17.200:8082)
+######[拉勾网职位搜索](http://123.56.17.200:8082) （Node、koa、mongodb、jQuery、gulp）[在线地址：http://123.56.17.200:8082](http://123.56.17.200:8082)
 - 利用爬虫搜索拉勾网上的职位，显示各地区的职位数量
 - 为了减少爬取次数，后端用mongodb存储查过的信息，如果所要查询的数据超过24小时没更新，则爬取新信息存储
 - 将数据转成JSON发送给前端，用Echart生成饼图展示
@@ -48,7 +48,7 @@
 - [github传送门](https://github.com/keep-writing-codes/woxixiulayin)
 
 
-######百度贴吧爬虫  (koa，bootstrap，gulp，react) [在线地址: http://123.56.17.200:8081/](http://123.56.17.200:8081) 
+######[百度贴吧爬虫](koa，bootstrap，gulp，react) [在线地址: http://123.56.17.200:8081/](http://123.56.17.200:8081) 
 - 基于Koa开发，套用bootstrap和react搭建页面
 - 爬取指定贴吧上符合条件的帖子，集中展示，比如快速找出10业内回复量大于1000的热门帖子
 - [github传送门](https://github.com/woxixiulayin/tiebadig_node)
