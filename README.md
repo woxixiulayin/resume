@@ -1,6 +1,6 @@
 ###刘智刚
  - 求职意向：**前端开发（杭州）**
- -  联系方式：**13162101930**  /    **zhigang7536308@163.com**
+ -  联系方式：**zhigang7536308@163.com**
  - github传送门：[https://github.com/woxixiulayin](https://github.com/woxixiulayin)
  - 工作年限：2年（安卓相关，目前离职转行前端）
 
