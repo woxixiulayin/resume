@@ -2,7 +2,7 @@
  - 求职意向：**前端开发（杭州）**
  -  联系方式：**13162101930**  /    **zhigang7536308@163.com**
  - github传送门：[https://github.com/woxixiulayin](https://github.com/woxixiulayin)
- - 工作年限：2年（安卓相关，目前离职转行前端）
+ - 工作年限：2年（嵌入式/安卓底层，目前离职转行前端）
 
 ----
 ####教育经历
@@ -22,8 +22,8 @@
 ---
 ####前端项目（个人）
 
-
-######[vue做的flappy bird](http://keep-writing-codes.github.io/woxixiulayin/example/vflappybird/index.html)(vue、ES6) [http://keep-writing-codes.github.io/woxixiulayin/example/vflappybird/index.html](http://keep-writing-codes.github.io/woxixiulayin/example/vflappybird/index.html)
+######[vue做的flappy bird](http://keep-writing-codes.github.io/woxixiulayin/example/vflappybird/index.html)(vue、ES6) 
+- [http://123.56.17.200:8080/woxixiulayin/example/vflappybird/index.html](http://123.56.17.200:8080/woxixiulayin/example/vflappybird/index.html)
 - 采用vue的模块化方式编写组件（src/componets/），各游戏组件比较清晰，容易修改;
 - game.js采用event机制，是游戏的事件中心，提供事件操作函数，各组件内部监听游戏事件响应动作；
 - store.js中统一维护公有state，集中管理，对外提供操作函数；
@@ -34,7 +34,6 @@
 - 一个直播信息爬取网站，开始用的jQuery，后来为了学习vue，前端部分用vue进行了重构
 - 后端写了一个通用的spider类，各具体网站爬虫类用它作为原型，定制各自的爬虫策略，方便扩展为爬取其他类型的直播信息
 - 利用promise，等所有异步爬取的数据完成后发送给前端
-- 前端使用vue.js根据传过来的JSON数据更新页面
 - [github传送门](https://github.com/woxixiulayin/vue-livedota)
 
 ######[拉勾网职位搜索](http://123.56.17.200:8082)(Node、koa、mongodb、jQuery、gulp) [http://123.56.17.200:8082](http://123.56.17.200:8082)
@@ -43,17 +42,14 @@
 - 将数据转成JSON发送给前端，用Echart生成饼图展示
 - [github传送门](https://github.com/woxixiulayin/lagou_spider)
 
-######[前端练手项目集合](http://keep-writing-codes.github.io/woxixiulayin/)(js/html/css, jQuery) [http://keep-writing-codes.github.io/woxixiulayin/](http://keep-writing-codes.github.io/woxixiulayin/)
+######[前端练手项目集合](http://keep-writing-codes.github.io/woxixiulayin/)(js/html/css, jQuery) [http://123.56.17.200:8080/](http://123.56.17.200:8080/)
 - 刚开始学前端做的练手项目，依照[百度前端技术学院](http://ife.baidu.com/task/all)的题目边学边练
 - [github传送门](https://github.com/keep-writing-codes/woxixiulayin)
-
 
 ######[百度贴吧爬虫](http://123.56.17.200:8081)(koa，bootstrap，gulp，react) [http://123.56.17.200:8081/](http://123.56.17.200:8081) 
 - 基于Koa开发，套用bootstrap和react搭建页面
 - 爬取指定贴吧上符合条件的帖子，集中展示，比如快速找出10业内回复量大于1000的热门帖子
 - [github传送门](https://github.com/woxixiulayin/tiebadig_node)
-
-
 
 ----
 
